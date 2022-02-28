@@ -33,5 +33,7 @@
         android:layout_marginStart="5dp"
         android:layout_marginTop="2dp"
         android:layout_toEndOf="@+id/ivProfileImage"
-        tools:text="This is my tweets!" />
+        tools:text="This is my tweets!"
+        android:autoLink="all"
+        android:linksClickable="true"/>
 </RelativeLayout>
