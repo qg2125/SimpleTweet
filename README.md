@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-The GIF converter in imgur doesn't work, so I put a video link here and upload a video in my folder.
+The GIF converter in imgur doesn't work, so I put a video link:  
 https://imgur.com/gallery/DWSSaoe
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
