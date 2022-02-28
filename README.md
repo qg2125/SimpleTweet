@@ -35,7 +35,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+The GIF converter in imgur doesn't work, so I put a video link here and upload a video in my folder.
+https://imgur.com/gallery/DWSSaoe
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
